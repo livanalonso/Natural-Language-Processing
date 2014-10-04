@@ -23,7 +23,7 @@ for i in range(0,len(tagged)):
      if re.match('N',tagged[i][1]):
              print (tagged[i][0])
  
-#Output
+#This is the output:
 ##types
 ##regressions
 ##DataScientists
