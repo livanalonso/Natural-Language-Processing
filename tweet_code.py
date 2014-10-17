@@ -24,10 +24,10 @@ for i in range(0,len(tagged)):
              print (tagged[i][0])
  
 #This is the output:
-##types
-##regressions
-##DataScientists
-##Statisticians
-##Analytic
-##practitioners
-##http
+## types
+## regressions
+## DataScientists
+## Statisticians
+## Analytic
+## practitioners
+## http
