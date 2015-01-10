@@ -1,6 +1,6 @@
 import nltk
 
-#This tweet was posted by @analyticbridge
+#This tweet was posted by @datasciencectrl
 tweet="10 types of regressions for #DataScientists, #Statisticians and other #Analytic practitioners, which one to use? http://ow.ly/zsvs4"
  
 tokens = nltk.word_tokenize(tweet)
